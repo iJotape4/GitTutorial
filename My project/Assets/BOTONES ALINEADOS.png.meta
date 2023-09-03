@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -108,7 +108,217 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: BOTONES ALINEADOS_0
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 355
+        width: 2039
+        height: 1412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31fe711ff3652247ad944c573ab275c
+      internalID: 175918984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOTONES ALINEADOS_1
+      rect:
+        serializedVersion: 2
+        x: 3038
+        y: 228
+        width: 2182
+        height: 1556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5444162abcff5b9468ae3136df5e29bc
+      internalID: -345988343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOTONES ALINEADOS_2
+      rect:
+        serializedVersion: 2
+        x: 5605
+        y: 715
+        width: 310
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56844846fca252498dbfbb197ba7dae
+      internalID: -693001899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOTONES ALINEADOS_3
+      rect:
+        serializedVersion: 2
+        x: 5668
+        y: 378
+        width: 2771
+        height: 1481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83fadf7aae2ebe0429cb608ded695edf
+      internalID: 766059494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOTONES ALINEADOS_4
+      rect:
+        serializedVersion: 2
+        x: 9039
+        y: 386
+        width: 2375
+        height: 1540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0c0856d3b7fdc4b9b714704b67cc55
+      internalID: -725776180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOTONES ALINEADOS_5
+      rect:
+        serializedVersion: 2
+        x: 12207
+        y: 475
+        width: 2069
+        height: 1743
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f923dd71d0efff409b9164cf75c5331
+      internalID: 321753731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOTONES ALINEADOS_6
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 221
+        width: 223
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a7e74ae09837b40a23973e4a64238f
+      internalID: 798922600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOTONES ALINEADOS_7
+      rect:
+        serializedVersion: 2
+        x: 6782
+        y: 243
+        width: 170
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf960d1cf74bc30478b35118ee96cc8c
+      internalID: 1686984254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOTONES ALINEADOS_8
+      rect:
+        serializedVersion: 2
+        x: 10511
+        y: 349
+        width: 81
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b2ecc582ae51641921f531e13ef86b
+      internalID: 243275380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOTONES ALINEADOS_9
+      rect:
+        serializedVersion: 2
+        x: 13675
+        y: 183
+        width: 242
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61344483cc6b60b41a8ab1d635bcc9d7
+      internalID: -142710180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -119,7 +329,17 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BOTONES ALINEADOS_0: 175918984
+      BOTONES ALINEADOS_1: -345988343
+      BOTONES ALINEADOS_2: -693001899
+      BOTONES ALINEADOS_3: 766059494
+      BOTONES ALINEADOS_4: -725776180
+      BOTONES ALINEADOS_5: 321753731
+      BOTONES ALINEADOS_6: 798922600
+      BOTONES ALINEADOS_7: 1686984254
+      BOTONES ALINEADOS_8: 243275380
+      BOTONES ALINEADOS_9: -142710180
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
